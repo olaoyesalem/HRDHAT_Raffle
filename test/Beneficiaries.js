@@ -29,6 +29,8 @@ describe('Beneficiaries', () => {
     await Instance.approval(child_2).then((tx) => 
       expect(tx).to.equal(false)
     );
+    
+    
 
     // Here the owner approve child_2
     await Instance.approve(child_2, true);
