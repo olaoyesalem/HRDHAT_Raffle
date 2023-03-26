@@ -7,6 +7,7 @@ import "@openzeppelin/contracts/token/ERC721/IERC721.sol";
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 import "./IBank.sol";
 
+
 interface Common {
   error InvalidBankAddress();
   error YouShouldAtLeastHaveARelative();
