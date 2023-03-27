@@ -4,8 +4,6 @@ const ethers = require("ethers");
 
 
 
-rdhat");
-
 async function main() {
   const WITHDRAW_WAITING_PERIOD_IN_MINUTES = 24 * 60;
   const AGE = 30;
