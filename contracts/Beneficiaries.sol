@@ -6,6 +6,7 @@ pragma solidity 0.8.9;
 contract Beneficiaries {
   address immutable owner;
   
+  
   address immutable child_1;
   address immutable child_2;
 
