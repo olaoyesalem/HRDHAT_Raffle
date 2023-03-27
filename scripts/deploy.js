@@ -1,7 +1,3 @@
-const { BigNumber } = require("bignumber.js");
-const { Web3 } = require("web3");
-const ethers = require("ethers");
-
 
 
 async function main() {
